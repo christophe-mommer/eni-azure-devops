@@ -1,0 +1,12 @@
+﻿Work Item Type,Title,Assigned To,State,Tags
+"Epic","MVP",,"To Do",
+"Epic","V1",,"To Do",
+"Issue","Vitrine",,"To Do",
+"Issue","Panier",,"To Do",
+"Task","Possibilité d'ajouter des éléments au panier",,"To Do",
+"Task","Le changement de quantité doit rafraichir le prix",,"To Do",
+"Issue","Liste de souhaits",,"To Do",
+"Issue","Espace client",,"To Do",
+"Task","L'utilisateur doit pouvoir déplacer des produits de la liste de souhaits vers le panier (et vice-versa)",,"To Do",
+"Task","Affichage des produits",,"To Do",
+"Task","L'utilisateur doit pouvoir modifier ses coordonnées",,"To Do",
